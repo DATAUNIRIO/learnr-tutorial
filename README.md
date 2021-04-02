@@ -6,6 +6,10 @@
 
 However, Binder service can provide an alternative. Following are two examples of `learnr` tutorials running on Binder.
 
+## “Hosting” Interactive Tutorial with Binder
+Binder is a flexible platform to reproduce a computational environment. You can read more about Binder on The Turing Way (an online book for research computing that I find super useful).
+For example, Binder can start a Rstudio session with cloned contents of a GitHub repository, and start a Shiny app for you.
+
 shiny/test1: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/syoh/learnr-tutorial/master?urlpath=shiny/test1/)
 
 shiny/test2: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/syoh/learnr-tutorial/master?urlpath=shiny/test2/)
